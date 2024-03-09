@@ -1,2 +1,2 @@
-Eu pegaria um celular emprestado e deixaria e entraria em uma vídeo-chamada com ele. Deixaria ele na Sala 1 e apertando os inerruptores eu descobriria qual deles controla a luz da sala 1.
+Eu pegaria um celular emprestado, deixaria dentro da sala e entraria em uma vídeo-chamada com ele. Deixaria ele na Sala 1 e apertando os inerruptores eu descobriria qual deles controla a luz da sala 1.
 Após isso seria só apagar o interruptor que eu tenho certeza e deixar só um aceso, entrar na sala 2 e se ela estivesse ligada então, eu logicamente saberia qual controla a sala 2 e a sala dos interruptores e caso ela esteja apagada o processo seria o mesmo só que ao contrário.
